@@ -55,7 +55,7 @@ Write-Host " "
 
 
 # Configurable Variables
-$CompanyName = "Rosman";											# Company name used for OrgName in script. 
+$CompanyName = "Departament";											# Company name used for OrgName in script. 
 $Wks_AdminPwd = "Password";												# Password used for local Administrator account.
 
 $MDT_Admin_is_Domain_Admin = "false";											# MDT admin domain account is part of the "Domain Administrators" AD group or not. Accepted values: true, false
